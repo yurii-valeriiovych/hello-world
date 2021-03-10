@@ -1,2 +1,3 @@
 # hello-world
-short description to begin
+Trying to get some sence in all of that
+these are my first attempts in Git Hub
